@@ -1,4 +1,5 @@
 {
+	"version": "1.0.0",
 	"name": "url-tools",
 	"dependencies": {
 		"fast-url-parser": "~1.1.3",
