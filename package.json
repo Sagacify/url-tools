@@ -1,0 +1,17 @@
+{
+	"name": "url-tools",
+	"dependencies": {
+		"fast-url-parser": "~1.1.3",
+		"querystringparser": "~0.1.1",
+		"urlext": "git+https://github.com/Mickael-van-der-Beek/node-url-tools.git#464ec10e654f0cebb1ccda1dfe07340a63bd32d7",
+		"urijs": "~1.16.0",
+		"ip": "~1.0.1",
+	},
+	"devDependencies": {
+	
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Sagacify/url-tools"
+	}
+}
